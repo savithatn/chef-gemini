@@ -2,6 +2,8 @@
 
 ![Chef Gemini Demo](./demo.gif)
 
+*🎥 [Watch the full 2-prompt demo video with culinary background music (chef_gemini_demo_culinary.mp4)](./chef_gemini_demo_culinary.mp4)*
+
 **Chef Gemini** is an intelligent conversational culinary assistant built with the **Google Agent Development Kit (ADK)**. It empowers home cooks to discover personalized recipes based on pantry inventory, plan balanced meals, generate appetizing food photography and short dish videos, execute Python code for unit & nutritional conversions, locate nearby grocery stores, and maintain dietary preferences across sessions using long-term memory.
 
 ---
